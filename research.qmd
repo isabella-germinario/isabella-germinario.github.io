@@ -2,7 +2,6 @@
 title: "Research"
 ---
 
-Below are sample entries. Replace with your own papers.
 
 ### Working Papers
 
@@ -18,16 +17,5 @@ Short abstract goes here. Summarize the question, method, data, and main result 
 
 <div class="card">
 
-**Title:** CBDC and Growth in Developing Economies  
-**Status:** Draft  
-**PDF:** [Download](/papers/cbdc-growth.pdf)  
-**Abstract:**  
-Short abstract goes here.
 
-</div>
 
-#### How to add a paper
-
-1. Put the PDF into the `papers/` folder (e.g., `papers/my-paper.pdf`).  
-2. Add a new entry above with a link like `[Download](/papers/my-paper.pdf)`.  
-3. Rebuild the site with `quarto preview` (local) or publish (see README).
