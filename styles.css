@@ -1,0 +1,16 @@
+/* Minimal, readable defaults */
+main, header, footer { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+.navbar { border-bottom: 1px solid #e5e7eb; }
+.quarto-title-banner { display: none; }
+.btn-primary, a.btn, .btn {
+  border-radius: 9999px;
+  padding: 0.5rem 1rem;
+}
+.hero {
+  padding: 3rem 0;
+}
+.hero h1 { font-size: 2.2rem; margin-bottom: .5rem; }
+.hero p { font-size: 1.1rem; color: #444; }
+.card {
+  border: 1px solid #eee; border-radius: 12px; padding: 1rem; margin-bottom: 1rem;
+}
