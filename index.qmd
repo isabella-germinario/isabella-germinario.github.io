@@ -12,9 +12,10 @@ Montréal, Canada
 ## Welcome!
 
 I am a PhD Candidate in Economics at McGill University.  
-My research focuses on **development economics**, **economic growth**, and **structural transformation**, with an emphasis on understanding how labor allocation, comparative advantage, and sectoral productivity gaps shape income inequality in developing economies.
+My research focuses on development economics, structural transformation and economics growth, with an emphasis on understanding how labor allocation, comparative advantage, and sectoral productivity gaps shape income inequality in developing economies.
 
-My current work quantifies the role of **individual sorting on unobserved comparative advantage** in explaining earnings gaps between agriculture and non-agriculture in Indonesia, combining microdata from the IFLS with structural models of sectoral choice.
+My job market paper studies the impact of self-selection based on comparative advantages on sectoral productivity gaps in Indonesia.
+Abstract: This paper examines the role of individual sorting in sectoral productivity gaps in Indonesia between 1993 and 2000, using the Indonesia Family Life Survey (IFLS). The analysis reveals that sector-wide technology differences account for the majority of the observed gap, while individual sorting based on unobserved comparative advantages plays only a minor role, in contrast to prior studies that report large selection effects. Three contributions follow: (i) the aggregate effect of sorting consists of two components—the extra return to unobserved comparative advantage and the difference in mean latent abilities across sectors; (ii) a correlated random coefficient framework is applied to study productivity gaps, estimating the return component without distributional assumptions; (iii) the resulting selection terms are mapped to the classical Roy model. The findings suggest that improving agricultural technology and infrastructure, rather than labour reallocation policies such as vocational training, is key to narrowing productivity gaps in 1990s Indonesia.
 
 You can find my full CV [here](cv/cv.pdf).
 
