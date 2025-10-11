@@ -14,7 +14,7 @@ website:
       - href: cv.qmd
         text: CV
   page-footer:
-    left: "© 2025 Your Name"
+    left: "© 2025 Isabella Germinario"
     right: "Built with Quarto & GitHub Pages"
 
 format:
