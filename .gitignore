@@ -1,0 +1,10 @@
+# Quarto cache/build
+.quarto/
+_site/
+.Rproj.user/
+.Rhistory
+.ipynb_checkpoints/
+.DS_Store
+
+/.quarto/
+**/*.quarto_ipynb

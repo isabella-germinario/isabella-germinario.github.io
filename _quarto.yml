@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Your Name"
+  description: "Research, papers, and CV"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "© 2025 Your Name"
+    right: "Built with Quarto & GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+metadata-files: []
+
+# Replace 'Your Name' above and in the pages with your actual name.
