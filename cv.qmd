@@ -4,4 +4,4 @@ title: "CV"
 
 - **CV (PDF):** [Download](/cv/cv.pdf)
 
-> Tip: Name the file `cv.pdf` (all lowercase) so the link above just works when you drop in your new file.
+
