@@ -7,11 +7,11 @@ title: "Research"
 
 <div class="card">
 
-**Title:** The Sectoral Earnings Gap and Comparative Advantage  
+**Title:** Reassessing Selection Effects on Sectoral Productivity Gaps: Evidence from Indonesia
 **Status:** Job Market Paper (draft)  
 **PDF:** [Download](/papers/jmp-draft.pdf)  
-**Abstract:**  
-Short abstract goes here. Summarize the question, method, data, and main result in ~150 words.
+**Abstract:**  This paper examines the role of individual sorting in sectoral productivity gaps in Indonesia between 1993 and 2000, using the Indonesia Family Life Survey (IFLS). The analysis reveals that sector-wide technology differences account for the majority of the observed gap, while individual sorting based on unobserved comparative advantages plays only a minor role, in contrast to prior studies that report large selection effects. Three contributions follow: (i) the aggregate effect of sorting consists of two components—the extra return to unobserved comparative advantage and the difference in mean latent abilities across sectors; (ii) a correlated random coefficient framework is applied to study productivity gaps, estimating the return component without distributional assumptions; (iii) the resulting selection terms are mapped to the classical Roy model. The findings suggest that improving agricultural technology and infrastructure, rather than labour reallocation policies such as vocational training, is key to narrowing productivity gaps in 1990s Indonesia. 
+
 
 </div>
 
