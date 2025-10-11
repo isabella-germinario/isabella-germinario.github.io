@@ -2,8 +2,6 @@
 title: "CV"
 ---
 
-Put your latest CV as a PDF at `cv/cv.pdf` and it will be linked below.
-
 - **CV (PDF):** [Download](/cv/cv.pdf)
 
 > Tip: Name the file `cv.pdf` (all lowercase) so the link above just works when you drop in your new file.
