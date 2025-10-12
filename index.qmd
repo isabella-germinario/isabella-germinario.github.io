@@ -8,15 +8,15 @@ Montréal, Canada
 [Email](mailto:isabella.germinario@mail.mcgill.ca) | [GitHub](https://github.com/isabella-germinario) | [CV](cv/cv.pdf)
 
 ---
-
 ## Welcome!
 
-I am a PhD Candidate in Economics at McGill University.  
-My research focuses on development economics, structural transformation and economics growth, with an emphasis on understanding how labor allocation, comparative advantage, and sectoral productivity gaps shape income inequality in developing economies.
+I am a Ph.D. Candidate in Economics at McGill University, expected to graduate in 2026.  
+My research lies at the intersection of development economics, structural transformation and growth, and applied microeconometrics. I study how labour allocation, comparative advantage, and sector-wide productivity disparities shape aggregate outcomes in developing economies.
 
-My job market paper studies the impact of self-selection based on comparative advantages on sectoral productivity gaps in Indonesia before the "Big Bang" decentralization. The subsequent paper further studies the role of the selection effect on productivity gaps after the decentralization.
+My job market paper examines how sorting on unobserved comparative advantage contributes to sectoral productivity gaps in Indonesia, offering insights into the broader relationship between structural transformation and productivity growth in low-income countries.
 
-You can find my full CV [here](cv/cv.pdf).
+You can find my full CV [here](/cv) and more details about my ongoing projects [here](/research).
+
 
 ---
 
