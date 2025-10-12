@@ -22,6 +22,6 @@ You can find my full CV [here](/cv) and more details about my ongoing projects [
 
 ## Research Interests
 - Development economics  
-- Structural transformation and productivity  
+- Structural transformation and economic growth  
 - Applied microeconometrics  
-- Economic growth and policy evaluation
+- Productivity and policy evaluation
