@@ -11,6 +11,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: cv.qmd
         text: CV
   page-footer:
@@ -25,4 +27,3 @@ format:
 
 metadata-files: []
 
-# Replace 'Your Name' above and in the pages with your actual name.
