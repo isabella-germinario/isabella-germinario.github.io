@@ -3,6 +3,7 @@ title: "Home"
 format:
   html:
     markdown: true
+    sanitize: false
 ---
 
 # Isabella Germinario
