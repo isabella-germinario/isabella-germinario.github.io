@@ -28,9 +28,11 @@ format:
 ## Welcome!
 
 I am a Ph.D. Candidate in Economics at McGill University, expected to graduate in 2026.  
-My research lies at the intersection of development economics, structural transformation and growth, and applied microeconometrics. I study how labour allocation, comparative advantage, and sector-wide productivity disparities shape aggregate outcomes in developing economies.
 
-My job market paper examines how sorting on unobserved comparative advantage contributes to sectoral productivity gaps in Indonesia, offering insights into the broader relationship between structural transformation and productivity growth in low-income countries.
+My research sits at the intersection of development economics, structural transformation and growth, and applied microeconometrics.
+I study the microeconomic foundations of these processes, specifically how individuals and firms sort across sectors based on their comparative advantage and how this selection shapes sectoral productivity and income. 
+
+My job market paper challenges the prevailing view that worker sorting explains productivity gaps across sectors in Indonesia. Using IFLS data in the 1990s, I find that sector-wide inefficiencies are the primary driver, implying that industrial policy, not just labour market policy, is key to fostering growth in low-income countries.
 
 You can find my full CV [here](/cv) and more details about my ongoing projects [here](/research).
 
