@@ -7,14 +7,14 @@ format: html
 
 <div class="header-container">
   <div class="photo-container">
-    ![Isabella Germinario](Photo_Isabella_Germinario.jpg){.profile-photo}
+    <img src="Photo_Isabella_Germinario.jpg" alt="Isabella Germinario" class="profile-photo" />
   </div>
-  
   <div class="info-container">
-    **PhD Candidate in Economics, McGill University**  
-    Montréal, Canada
-
-    [Email](mailto:isabella.germinario@mail.mcgill.ca) | [GitHub](https://github.com/isabella-germinario) | [CV](cv/cv.pdf)
+    <strong>PhD Candidate in Economics, McGill University</strong><br>
+    Montréal, Canada<br>
+    <a href="mailto:isabella.germinario@mail.mcgill.ca">Email</a> |
+    <a href="https://github.com/isabella-germinario">GitHub</a> |
+    <a href="cv/cv.pdf">CV</a>
   </div>
 </div>
 
