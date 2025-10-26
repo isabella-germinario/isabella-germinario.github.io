@@ -33,3 +33,34 @@ main, header, footer { font-family: system-ui, -apple-system, Segoe UI, Roboto, 
 .info-container {
   line-height: 1.4;
 }
+
+/* --- Profile section spacing & typography tweaks --- */
+.profile-section {
+  text-align: left;
+  margin-bottom: 2rem;   /* more breathing room before Welcome */
+}
+
+.profile-section .name {
+  font-size: 2rem;       /* slightly smaller name */
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+
+.profile-section .degree,
+.profile-section .university,
+.profile-section .location {
+  font-size: 1rem;       /* smaller supporting text */
+  color: #444;           /* softer gray tone */
+  line-height: 1.4;
+  margin-bottom: 2px;
+}
+
+.profile-section .links {
+  margin-top: 6px;
+  margin-bottom: 1.5rem; /* add vertical space before Welcome! */
+}
+
+.profile-section .links a {
+  font-size: 0.95rem;
+  margin-right: 10px;
+}
