@@ -1,27 +1,29 @@
 ---
-title: "Home"
+title: ""
 format:
   html:
     markdown: true
     sanitize: false
 ---
 
-# Isabella Germinario
-
 ```{=html}
-<div class="header-container">
-  <div class="photo-container">
-    <img src="Photo_Isabella_Germinario.jpg" alt="Isabella Germinario" class="profile-photo">
-  </div>
-  <div class="info-container">
-    <strong>PhD Candidate in Economics, McGill University</strong><br>
-    Montréal, Canada<br>
-    <a href="mailto:isabella.germinario@mail.mcgill.ca">Email</a> |
-    <a href="https://github.com/isabella-germinario">GitHub</a> |
-    <a href="cv/cv.pdf">CV</a>
+<div class="profile-section">
+  <img src="Photo_Isabella_Germinario.jpg" alt="Isabella Germinario" class="profile-photo">
+
+  <h1 class="name">Isabella Germinario</h1>
+
+  <div class="info-block">
+    <div class="degree">PhD Candidate in Economics</div>
+    <div class="university">McGill University</div>
+    <div class="location">Montréal, Canada</div>
+    <div class="links">
+      <a href="mailto:isabella.germinario@mail.mcgill.ca">Email</a> ·
+      <a href="https://github.com/isabella-germinario">GitHub</a> ·
+      <a href="cv/cv.pdf">CV</a>
+    </div>
   </div>
 </div>
-```
+---
 
 ## Welcome!
 
