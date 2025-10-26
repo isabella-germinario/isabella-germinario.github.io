@@ -3,10 +3,19 @@ title: "Home"
 ---
 
 # Isabella Germinario
-PhD Candidate in Economics, McGill University  
-Montréal, Canada  
-[Email](mailto:isabella.germinario@mail.mcgill.ca) | [GitHub](https://github.com/isabella-germinario) | [CV](cv/cv.pdf)
 
+<div class="header-container">
+  <div class="photo-container">
+    ![Isabella Germinario](Photo_Isabella_Germinario.jpg){.profile-photo}
+  </div>
+  
+  <div class="info-container">
+    **PhD Candidate in Economics, McGill University**  
+    Montréal, Canada
+
+    [Email](mailto:isabella.germinario@mail.mcgill.ca) | [GitHub](https://github.com/isabella-germinario) | [CV](cv/cv.pdf)
+  </div>
+</div>
 
 ## Welcome!
 
