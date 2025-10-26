@@ -7,7 +7,7 @@ title: "Research"
 
 <div class="card">
 
-**Title:** How Much Sorting Matters for Sectoral Productivity Gaps: Evidence from Indonesia
+**Title:** How Much Sorting Matters for Sectoral Productivity Gaps: Evidence from Indonesia<br>
 **Status:** Job Market Paper (draft)  
 **PDF:** [Download](/papers/jmp-draft.pdf)  
 **Abstract:** This paper examines how individual sorting contributes to sectoral productivity gaps in Indonesia between 1993 and 2000, using data from the Indonesian Family Life Survey (IFLS). I find that sector-wide efficiency differences, not sorting based on unobserved comparative advantage, account for most of the gap. This result contrasts sharply with prior literature and stems from an empirical strategy that separates fixed effects unrelated to sectoral choice from latent abilities, uses information from both switchers and stayers, and avoids strong distributional assumptions on comparative advantage. The paper makes two key contributions. Methodologically, it provides a novel application of a correlated random coefficients (CRC) framework to sectoral productivity gaps, with modifications that offer a more flexible characterization of how unobserved comparative advantage influences sectoral choice. Conceptually, it links the aggregate selection effects from this framework to the classic Roy model, allowing direct comparison with standard selection-correction approaches. The findings suggest that for Indonesia in the 1990s, policies aimed at reducing sector-wide inefficiencies were key to narrowing productivity gaps, highlighting a significant potential role for government in improving economic performance. 
